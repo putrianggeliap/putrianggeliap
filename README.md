@@ -1,16 +1,17 @@
-## Hi there 👋
+# Halo semua! 👋  
 
-<!--
-**putrianggeliap/putrianggeliap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan, nama saya **Putri Anggelia Puspa**.  
 
-Here are some ideas to get you started:
+Saya adalah mahasiswa **D4 Survei Pemetaan dan Informasi Geografis** di Universitas Pendidikan Indonesia.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya memiliki minat pada bidang **Geographic Information System (GIS), penginderaan jauh, pemetaan, serta analisis data spasial**.  
+
+Saat ini saya juga sedang mengembangkan kemampuan di bidang **data science dan pemrograman untuk GIS**, serta aktif mengerjakan berbagai proyek pemetaan dan analisis spasial.    
+
+Jika tertarik untuk berdiskusi atau berkolaborasi, silakan terhubung dengan saya melalui LinkedIn atau GitHub ini ya 🚀  
+Saya sangat terbuka untuk diskusi mengenai *Spatial Data Science*, *Remote Sensing*, atau kolaborasi proyek menarik lainnya.
+* **LinkedIn:** (https://www.linkedin.com/in/username-kamu](https://www.linkedin.com/in/putri-anggelia-puspa-779587345/?skipRedirect=true)
+* **Email:** [putrianggeliap@gmail.com]
+
+---
+"Blending Geography with Data Science to predict a better future."
